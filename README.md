@@ -1,4 +1,4 @@
-﻿# 🐾 ClinicOS Patient Manager – Frontend
+# 🐾 ClinicOS Patient Manager – Frontend
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Status" />
@@ -8,6 +8,10 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
   <img src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Context API" />
+  <br /><br />
+  <a href="https://administrador-de-pacientes-mern-frontend.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀%20Live%20Demo-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
 </div>
 
 <br />
@@ -18,6 +22,7 @@
 
 ## 📖 Table of Contents
 
+- [Live Demo](#-live-demo)
 - [Overview](#-overview)
 - [Key Features](#-key-features)
 - [Tech Stack](#-tech-stack)
@@ -27,6 +32,16 @@
 - [Pages & Routes](#-pages--routes)
 - [Screenshots](#-screenshots)
 - [Author](#-author)
+
+---
+
+## 🌐 Live Demo
+
+> **The app is deployed and fully functional — no setup needed!**
+
+🔗 **[https://administrador-de-pacientes-mern-frontend.vercel.app/](https://administrador-de-pacientes-mern-frontend.vercel.app/)**
+
+Hosted on **Vercel** · Connected to the live backend API
 
 ---
 
