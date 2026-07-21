@@ -43,6 +43,15 @@
 
 Hosted on **Vercel** · Connected to the live backend API
 
+### 🧪 Test Credentials
+
+You can log in instantly with the following demo account — no registration required:
+
+| Field    | Value               |
+|----------|---------------------|
+| Email    | `prueba@prueba.com` |
+| Password | `password`          |
+
 ---
 
 ## 🎯 Overview
